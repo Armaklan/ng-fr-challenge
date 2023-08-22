@@ -1,5 +1,4 @@
-# ng-fr-challenge
-Angular Challenge - Communauté française
+# Angular Challenge - Communauté française
 
 Ce projet est créé et maintenu par quelques membres de la communauté discord [Bonjour Angular](https://swll.to/18KKz).
 
