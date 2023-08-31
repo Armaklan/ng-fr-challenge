@@ -2,9 +2,9 @@
 
 Ce projet est créé et maintenu par quelques membres de la communauté discord [Bonjour Angular](https://swll.to/18KKz).
 
-Il s'agit de petit challenge de code :
+Il s’agit de petits challenges de code :
 
-- On se soumet un sujet permettant de crée une application
+- On se soumet un sujet permettant de créer une application
 - Chacun développe de son coté.
 - On s'entraide, on regarde le code des autres, on s'entraide, etc...
 
@@ -15,12 +15,12 @@ Pour ne pas flooder la communauté Bonjour Angular, on s'étale sur un discord s
 ## Comment participer ?
 
 - Choisir un sujet, ouvrir un dépôt, commencer à développé.
-- Rejoindre le discord dédié et crée un posts dans le forum dédié au projet.
-- Partagé votre projet et commencez à échanger.
+- Rejoindre le discord dédié et créer un post dans le forum dédié au projet.
+- Partager votre projet et commencer à échanger.
 
 ## 22/08/2023
 
 Le premier challenge est lancé : [Check Shaker](check-shaker.md).
 Il s'agit d'une petite application de gestion de checklist !
 
-A vos clavier :)
+A vos claviers :)
