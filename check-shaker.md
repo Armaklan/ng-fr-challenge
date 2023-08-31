@@ -1,15 +1,10 @@
-Check Shaker est une proposition de projet de développement commun dans le cadre du discord Bonjour Angular et sous licence open source à définir (MIT ?).
+# Check Shaker
 
-Il fait suite à une proposition de @jeromeLoveFront le 6 aout 2023 dans le canal #autres-sujets
-
-Le but est d'inviter les membres du discord à partager leur(s) savoir(s) autour de la conception d'une application.
-
-Dans l'esprit, ce projet doit permettre à toutes et tous de contribuer, du niveau débutant à l'expert++
-
-La bienveillance, au sens noble du terme, pas celui des DRH ;-), sera de mise !
+## Présentation
 
 Check Shaker est une application de gestion de checklists.
 Elle est axée autour de 3 fonctionnalités principales :
+
 - création de templates de checklist accessibles au sein d'une bibliothèque de templates
 - partage et complétion de checklist entre les utilisateurs
 - contrôle et archivage des checklists
@@ -19,7 +14,8 @@ L'objectif principal de l'application est de permettre de mettre en oeuvre des c
 Chaque checklist serait instanciée à partir d'un template présent dans la bibliothèque. Les templates seront construits autour de composants de validation.
 
 Les composants pourront être :
-- une case à cocher, 
+
+- une case à cocher,
 - une valeur numérique avec des limites optionnelles (par exemple la taille d'un bundle),
 - une liste déroulante,
 - une zone de texte.
@@ -42,6 +38,7 @@ Les templates seront organisées par catégorie(s).
 Les checklists possèderont en plus des tags et un état (pending, in progress, valid, archived).
 
 Il sera possible de rechercher les checklists par croisement multiple des données suivantes :
+
 - catégorie
 - tags
 - état
@@ -50,11 +47,13 @@ Il sera possible de rechercher les checklists par croisement multiple des donné
 - date range
 
 Dans les idées en vrac :
+
 - un chat pourra être attaché à chaque checklist pour échanger si besoin.
 - les checklists pourraient comporter des étapes de validation intermédiaires
 - etc.
 
 ## Technos à mettre en oeuvre
+
 - travail collaboratif / git / review / pair et mob
 - authentification des utilisateurs
 - roles
@@ -70,6 +69,7 @@ Dans les idées en vrac :
 - TU et e2e
 
 ## Roadmap (?)
+
 - todolist simple
 - authentification des utilisateurs
 - rattachement todolist à utilisateur
